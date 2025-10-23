@@ -1,4 +1,4 @@
-#Cotação
+# Cotação
 
 
 O sistema funciona no modelo MVC (Model, Controller e View) no sdk21, assim que compilado aparece um menu com as opções 1- Consultar Cotação, 2- Listar Moedas Disponiveis, 3- Sobre o Sistema e 0-Sair.
