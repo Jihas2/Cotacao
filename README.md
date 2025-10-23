@@ -9,4 +9,4 @@ O sistema funciona no modelo MVC (Model, Controller e View) no sdk21, assim que 
 
 3- Sobre o sistema: Aparece algumas informações sobre o sistema.
 
-0- Sair: Serve para finalizar o sistema.
+0- Sair: Serve para finalizar o sistema e mostra uma mensagem agradecendo por usar o sistema.
